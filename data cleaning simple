@@ -1,0 +1,23 @@
+data cleaning simple
+
+identifier cible pour algo x et y
+
+comment fonctionne pipeline
+
+fit de la pipeline sur tous l'ensemble
+
+test de prediction
+
+ext = "I hate you, please die!"
+
+joblib 
+
+sauvegarde de la pipeline
+
+model_filename = "hatespeech.joblib.z"
+
+
+paramettre
+linearRegression
+lasso regression:  alpha
+randomForest : arbreDecision profondeur
